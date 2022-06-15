@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hola 👋, yo soy DennisCalderon</h1>
 <h3 align="center">Soy un joven de Perú</h3>
 
@@ -8,10 +7,10 @@ Aquí hay algunas en las que me encuentor actualmente:
 - 🌱 Actualmente estoy aprendiendo Python
 - 👯 Estoy buscando colaborar en Grupos de Código Abierto
 - 📫 Contáctame en: https://www.facebook.com/dennis.calderonmamani/
-- 😄 Pronombre: Dev-Samuel
-- ⚡ Dato curioso: la vida me golpeo tanto que aveces no siento nada, si alguna vez que falto el respeto dímelo a la cara, me gusta la gente sincera!!!!
+- 😄 Alias: Dev-Samuel
+- ⚡ Dato curioso: la vida me golpeo tanto que a veces no siento nada; si alguna vez que falto el respeto dímelo a la cara, me gusta la gente sincera!!!!
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cplusplus" width="40" height="40"/> 
